@@ -1,0 +1,69 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	Aashi Faucets - Html5 Template For Faucets, Sanitary, Bathroom, Kitchen and Multipurpose E-commerce Store
+Version:	1.0.0
+Assigned to:	Themeforest
+Primary use:	Faucets, Sanitary, Tap shop, Bathroom & Kitchen Accessories, Responsive, Html5, E-commerce Store
+-------------------------------------------------------------------*/
+/*------------------------------------------------------------------
+[Table of contents]
+
+1 Body / body
+2 Common Css
+   2.1 Reset Style / img
+   2.2 Form Elements / input
+   2.3 Blockquote / blockquote
+   2.4 Button Style / .theme-button
+   2.5 Padding / .pad0
+   2.6 Margin / .mar0
+3 Header Style / #main-header
+   3.1 Top Header / #top-bar
+   3.2 Navigation Bar / .wa-main-menu
+4 Main Slider / .wa_main_bn_wrap
+5 Heading Style / .centered-title
+6 Collections / .collection-section
+7 Product Grid / .wa-products
+8 Banners / .banners-section
+9 Blogs / .blogs_main
+10 Partner / .wa-partners
+11 Newsletter / .wa-news-letter
+12 Services / .services
+13 Background Image / .special-style
+14 Product Sorting / .product-sorting
+15 Other Pages Section
+	15.1 Page Header / .page-header
+	15.2 Cart Page / .cart-page
+	15.3 Checkout Page / .checkout-page
+	15.4 FAQs / .faqs-accordion
+	15.5 Pagination / .styled-pagination
+	15.6 Comment Area / .reviews-container
+16 Sidebar / .sidebar
+17 Extra Styles / .ratings
+18 Preloader / .preloader
+19 Owl Carousel Style
+	19.1 Carousel Styles1 / .carousel-style-1
+	19.2 Carousel Styles2 / .carousel-style-2
+20 Popups / .popup-inner
+21 Footer / #main-footer
+
+-------------------------------------------------------------------*/
+
+/* Fonts include */
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+/* Bootstrap core CSS*/
+@import url("assets/css/bootstrap.min.css");
+
+/*Plugins CSS */	
+@import url("assets/plugins/menu/css/hover-dropdown-menu.css");
+@import url("assets/plugins/font-awesome/css/font-awesome.min.css");
+@import url("assets/plugins/owl-carousel/css/owl.carousel.css");
+@import url("assets/plugins/fancymedia/css/jquery.fancybox.css");
+@import url("assets/css/jquery-ui.css");
+@import url("assets/plugins/switcher/switcher.css");
+
+/*Defaults CSS SETTINGS */	
+@import url("assets/css/style.css");
+
+/*Template Media Query CSS */
+@import url("assets/css/responsive.css");
